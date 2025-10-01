@@ -1,12 +1,16 @@
 ## Hello 👋 I'M kartik Mohod
 
 👨‍💻  About Me
-🔭 I’m a Final year student pursuing a B. Tech. degree from SBJITMR, Nagpur in CSE with a keen interest in Full Stack Development.
-🎯 Passionate about MERN Stack | Next.js | REST APIs | Databases | Cloud Deployment | GenAI-powered Apps.
-🌱 Currently learning Scalable Web Applications, DevOps, and Modern Frontend Frameworks.
-💡 Open to collaborating on Full Stack Projects, AI-integrated Web Apps & Open-Source Contributions.
-📫 Reach me at kartikmohod204@gmail.com.
-⚡ Fun fact: I enjoy turning ideas into functional web apps and exploring how AI can enhance modern software development 🚀
+
+* 🔭 I’m a Final year student pursuing a **B. Tech. degree in CSE from SBJITMR, Nagpur**, with a keen interest in **Full Stack Development**.
+* 🎯 Passionate about **MERN Stack | Next.js | REST APIs | Databases | Cloud Deployment | GenAI-powered Apps**.
+* 🌱 Currently learning **Scalable Web Applications, DevOps, and Modern Frontend Frameworks**.
+* 💡 Open to collaborating on **Full Stack Projects, AI-integrated Web Apps & Open-Source Contributions**.
+* 📫 Reach me at **[kartikmohod204@gmail.com](mailto:kartikmohod204@gmail.com)**.
+* ⚡ Fun fact: I enjoy **turning ideas into functional web apps** and exploring how **AI can enhance modern software development** 🚀.
+
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]((https://www.facebook.com/kartik.mohod.18)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kartik_mohod_Official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(http://www.linkedin.com/in/kartik-mohod)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@K_Vibes-kvm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikmohod204@gmail.com) 
