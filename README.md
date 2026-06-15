@@ -2,7 +2,7 @@
 
 👨‍💻  About Me
 
-* 🔭 I’m a Final year student pursuing a **B. Tech. degree in CSE from SBJITMR, Nagpur**, with a keen interest in **Software Development**.
+* 🔭 I’m a Graduate in  **B. Tech. degree in CSE from SBJITMR, Nagpur**, with a keen interest in **Software Development**.
 * 🎯 Passionate about **FULL Stack | React.js | REST APIs | Databases | Cloud Deployment | GenAI-powered Apps**.
 * 🌱 Currently learning **Scalable Web Applications, DevOps, and Modern Frontend Frameworks**.
 * 💡 Open to collaborating on **Full Stack Projects, AI-integrated Web Apps & Open-Source Contributions**.
